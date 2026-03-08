@@ -1,0 +1,30 @@
+beautifulsoup4==4.14.3
+certifi==2026.2.25
+cffi==2.0.0
+charset-normalizer==3.4.4
+curl_cffi==0.13.0
+frozendict==2.4.7
+idna==3.11
+lxml @ file:///C:/miniconda3/conda-bld/lxml_1764009758340/work
+mkl-service==2.5.2
+mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592920106/work
+mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593150425/work
+multitasking==0.0.12
+numpy @ file:///C:/Users/task_177073259140189/croot/numpy_and_numpy_base_1770732696798/work/dist/numpy-2.4.2-cp311-cp311-win_amd64.whl#sha256=db7e8eac1b8d29cb8580c8a9b097383a4d0e771e0a7ae4913ad05951f457f2cd
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049096285/work
+pandas @ file:///C:/Users/task_177064249423800/croot/pandas_1770643000372/work
+peewee==4.0.1
+platformdirs==4.9.2
+protobuf==7.34.0
+pycparser==3.0
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz==2026.1.post1
+requests==2.32.5
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+soupsieve==2.8.3
+typing_extensions==4.15.0
+tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
+urllib3==2.6.3
+websockets==16.0
+xlsxwriter @ file:///C:/miniconda3/conda-bld/xlsxwriter_1761560528981/work
+yfinance==1.2.0
